@@ -1,0 +1,12 @@
+{
+  "name": "missionimpossible",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "geektrust.js",
+  "scripts": {
+    "start": "node geektrust.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veeresh Digasangi",
+  "license": "ISC"
+}

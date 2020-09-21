@@ -19,7 +19,7 @@ var lengthOfLongestSubstring = function (s) {
     max = Math.max(max, end - start + 1);
     end++;
   }
-  return max;
+  return max
 };
 
 function getOrDefault(map, key) {
@@ -27,4 +27,4 @@ function getOrDefault(map, key) {
 }
 
 
-console.log(lengthOfLongestSubstring("dvdf"));
+console.log(lengthOfLongestSubstring("abcabcbb"));

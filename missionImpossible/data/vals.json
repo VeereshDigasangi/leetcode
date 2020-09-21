@@ -1,0 +1,32 @@
+{
+    "orbits": {
+        "o1": {
+            "distance": 18,
+            "craters": 20
+        },
+        "o2": {
+            "distance": 20,
+            "craters": 10
+        }
+    },
+    "weather": {
+        "sunny": -10,
+        "rainy": 20,
+        "windy": 0
+    },
+    "vehicles": {
+        "bike": {
+            "speed": 10,
+            "delay": 2
+        },
+        "tuktuk": {
+            "speed": 12,
+            "delay": 1
+        },
+
+        "car": {
+            "speed": 20,
+            "delay": 3
+        }
+    }
+}
