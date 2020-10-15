@@ -1,0 +1,46 @@
+Problem Statement
+===============
+
+Write a web service which takes a date and time parameter and returns a list of restaurants which are open on that date and time. Optimized solutions are nice, but correct solutions are more important!
+
+The restaurants with open time are available using the following API
+
+Either call the API or just download the content into a file and use it.
+
+If a day of the week is not listed, the restaurant is closed on that day
+
+All times are local — don’t worry about timezone-awareness
+
+ 
+
+Minimum Requirement
+
+Create an API which accepts a date and time and returns the open restaurants
+
+ 
+
+Plus Points A
+
+Implement a search API to search restaurants dynamically by Text.
+
+Create an API which accepts a sort parameter and returns the list of  restaurants with the nearest closing time or by title.
+
+ 
+
+Plus Points B
+
+Use any of one [Nest / Hapi / Loopback / Sail]
+
+Production level Code; Beautify; Comment; Documented code; handle Input Exceptions, Unicode and Null values.
+
+Use of proper design patterns and data structures
+
+Write unit tests to test the business logic.
+
+Awesome if your test coverage exceeds about 50%
+
+ 
+
+JSON Content
+
+https://run.mocky.io/v3/b0f3e975-b815-4e88-8a6a-84af59fe32eb
